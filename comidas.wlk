@@ -8,6 +8,8 @@ object manzana {
 
 	method energiaQueOtorga() = 40
 
+	method teEncontro(){}
+
 }
 
 object alpiste {
